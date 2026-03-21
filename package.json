@@ -1,0 +1,57 @@
+{
+  "author": "aarr-jp",
+  "bugs": {
+    "url": "https://github.com/aarr-jp/aarr-jp.github.io/issues"
+  },
+  "dependencies": {
+    "@emotion/cache": "^11.14.0",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^7.3.9",
+    "@mui/material": "^7.3.9",
+    "@mui/material-nextjs": "^7.3.9",
+    "front-matter": "^4.0.2",
+    "kiso.css": "^1.2.4",
+    "next": "^16.2.1",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "rehype-pretty-code": "^0.14.3",
+    "rehype-stringify": "^10.0.1",
+    "remark-gfm": "^4.0.1",
+    "remark-parse": "^11.0.0",
+    "remark-rehype": "^11.1.2",
+    "unified": "^11.0.5"
+  },
+  "description": "About 荒らし連合軍.",
+  "devDependencies": {
+    "@biomejs/biome": "^2.4.8",
+    "@types/node": "^25.5.0",
+    "@types/react": "^19.2.14",
+    "@typescript/native-preview": "^7.0.0-dev.20260321.1",
+    "babel-plugin-react-compiler": "^1.0.0",
+    "npm-run-all2": "^8.0.4",
+    "serve": "^14.2.6",
+    "typescript": "^5.9.3"
+  },
+  "homepage": "https://github.com/aarr-jp/aarr-jp.github.io#readme",
+  "keywords": [
+    "aarr",
+    "wiki"
+  ],
+  "license": "MIT",
+  "name": "aarr-jp.github.io",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarr-jp/aarr-jp.github.io.git"
+  },
+  "scripts": {
+    "build": "next build",
+    "dev": "URL=http://localhost:3000 next dev",
+    "preview": "run-s preview:build preview:serve",
+    "preview:build": "URL=http://localhost:3000 bun run build",
+    "preview:serve": "serve out"
+  },
+  "type": "module",
+  "version": "0.0.0"
+}
