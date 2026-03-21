@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[614,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0qhs7uv~x4w-7.js"],"default"]
+3:I[26863,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0qhs7uv~x4w-7.js"],"default"]
+4:I[61380,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0qhs7uv~x4w-7.js"],"default"]
+5:I[97367,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"spacing":2,"padding":2,"children":[["$","$L3",null,{"component":"h1","variant":"h4","children":"荒連資料館"}],["$","$L2",null,{"spacing":1,"alignItems":"flex-start","children":[["$","$L4","世代表",{"href":"/wiki/%E4%B8%96%E4%BB%A3%E8%A1%A8","children":"世代表"}],["$","$L4","サウロン",{"href":"/wiki/%E3%82%B5%E3%82%A6%E3%83%AD%E3%83%B3","children":"サウロン"}],["$","$L4","年表",{"href":"/wiki/%E5%B9%B4%E8%A1%A8","children":"年表"}],["$","$L4","夕立改二",{"href":"/wiki/%E5%A4%95%E7%AB%8B%E6%94%B9%E4%BA%8C","children":"夕立改二"}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qhs7uv~x4w-7.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"txFXEhhZ8J5uyCcOCz17c"}
+7:null

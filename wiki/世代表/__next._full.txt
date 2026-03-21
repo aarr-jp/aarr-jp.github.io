@@ -1,0 +1,118 @@
+1:"$Sreact.fragment"
+2:I[52669,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+3:I[17350,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[61079,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"theme"]
+5:I[53675,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+6:I[39756,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+7:I[37457,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+9:I[97367,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+d:I[97367,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+f:I[97367,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+11:I[68027,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+0:{"P":null,"c":["","wiki","%E4%B8%96%E4%BB%A3%E8%A1%A8"],"q":"","i":false,"f":[[["",{"children":["wiki",{"children":[["slug","%E4%B8%96%E4%BB%A3%E8%A1%A8","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/0xrasq-j~f.jo.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0faw9u7pjjy8x.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ja","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"suppressHydrationWarning":true,"children":["$","$L2",null,{"children":[[["$","script","mui-color-scheme-init",{"suppressHydrationWarning":true,"nonce":"$undefined","dangerouslySetInnerHTML":{"__html":"(function() {\ntry {\n  let colorScheme = '';\n  const mode = localStorage.getItem('mui-mode') || 'system';\n  const dark = localStorage.getItem('mui-color-scheme-dark') || 'dark';\n  const light = localStorage.getItem('mui-color-scheme-light') || 'light';\n  if (mode === 'system') {\n    // handle system mode\n    const mql = window.matchMedia('(prefers-color-scheme: dark)');\n    if (mql.matches) {\n      colorScheme = dark\n    } else {\n      colorScheme = light\n    }\n  }\n  if (mode === 'light') {\n    colorScheme = light;\n  }\n  if (mode === 'dark') {\n    colorScheme = dark;\n  }\n  if (colorScheme) {\n    document.documentElement.classList.remove('%s'.replace('%s', light), '%s'.replace('%s', dark));\n      document.documentElement.classList.add('%s'.replace('%s', colorScheme));\n  }\n} catch(e){}})();"}}]],["$","$L3",null,{"theme":"$4","children":[["$","$L5",null,{}],["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L8",[["$","script","script-0",{"src":"/_next/static/chunks/0ih52j8lpg_fp.js","async":true,"nonce":"$undefined"}]],["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],{},null,false,null]},null,false,"$@c"]},null,false,"$@c"]},null,false,null],["$","$1","h",{"children":[null,["$","$Ld",null,{"children":"$Le"}],["$","div",null,{"hidden":true,"children":["$","$Lf",null,{"children":["$","$a",null,{"name":"Next.Metadata","children":"$L10"}]}]}],null]}],false]],"m":"$undefined","G":["$11",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"txFXEhhZ8J5uyCcOCz17c"}
+12:[]
+c:"$W12"
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+13:I[614,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0ih52j8lpg_fp.js"],"default"]
+14:I[19646,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0ih52j8lpg_fp.js"],"default"]
+15:I[61380,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0ih52j8lpg_fp.js"],"default"]
+16:I[26863,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0ih52j8lpg_fp.js"],"default"]
+17:I[36773,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0ih52j8lpg_fp.js"],"default"]
+18:T1de8,<p>世代表とは、荒らし連合軍のユーザーを加入順で世代を大まかにグループ分けした表である。
+掲載ユーザーの多さと、加入時期に表作成者の主観が含まれることから、その信ぴょう性は疑われている。
+また、名前の横に活動状況に関する記載があるが、転生などアカウントを変えたり名義を変えたりして活動しているユーザーも多い。</p>
+<p>表作成者についての情報を求む。</p>
+<h1>世代表一覧（長さ順）</h1>
+<pre><code>第一世代
+冥王サウロン,荒らし,root(死亡),AK47,ハウリングインフェルノ（死亡），襲撃者,夕立改二
+第二世代
+こひまき(死亡),ARIRIORI(死亡),けんけん(死亡),ナルトアイコン(死亡),れおうーん，すずねーう
+第三世代
+Tsukinose(死亡),Alpha Null（低浮上）,Pognise(死亡),タモリの家(死亡)，人益鳥，暇人村長
+第四世代
+Blqsty,PepaxMax(低浮上),すえきゅー（死亡）,tsukigokami（低浮上）,白銀,りくるーと,TMK(死亡)ゲイロード(死亡),論破のレジェンド(死亡),ACるいとい（死亡)
+第五世代
+みどくり(低浮上),リフティ(低浮上),haruka,sine,covid-channel(死亡)，woof，［Evangelion Test Type-01］，
+絶対に荒らすピカチュウ,bi### japanese ni### poop(死亡),蔵田(死亡)
+kousakirai,フェニックス(死亡),ワッパステイ(低浮上)
+</code></pre>
+<pre><code>第一世代
+冥王サウロン,荒らし,root(死亡),AK47,ハウリングインフェルノ（死亡），夕立改二
+第二世代
+こひまき(死亡),ARIRIORI(死亡),けんけん(死亡),ナルトアイコン(死亡),れおうーん，すずねーう
+第三世代
+Tsukinose(死亡),Alpha Null（低浮上）,Pognise(死亡),タモリの家(死亡)，人益鳥，
+第四世代
+Blqsty,PepaxMax(低浮上),すえきゅー（死亡）,tsukigokami（低浮上）,白銀,りくるーと,TMK(死亡)ゲイロード(死亡),論破のレジェンド(死亡),ACるいとい（死亡)
+第五世代
+みどくり(低浮上),リフティ(低浮上),haruka,sine,covid-channel(死亡)，woof，［Evangelion Test Type-01］，
+絶対に荒らすピカチュウ,bi### japanese ni### poop(死亡),蔵田(死亡)
+kousakirai,フェニックス(死亡),ワッパステイ(低浮上)
+第六世代
+ハマグリの名を継ぐもの,紫のラララマっくり,シュトロハイム(死亡),izaya,結月ゆかり bot(死亡),ウーフ（低浮上）,のなめ,はるさめ,
+第七世代
+始祖ユミル(死亡),e8379283728(死亡),三枚舌(死亡),迫撃(死亡),スプリンクラー(死亡),,オコジョ(死亡)
+第八世代
+Qwerty,らまぁん(死亡),start(低浮上),たにかみ(死亡),ダハナ(低浮上),
+</code></pre>
+<pre><code>第一世代
+冥王サウロン,荒らし,root(死亡),AK47(死亡),ハウリングインフェルノ
+第二世代
+こひまき(死亡),ARIRIORI(死亡),けんけん(死亡),ナルトアイコン(死亡),れおうーん(死亡)
+第三世代
+Tsukinose(死亡),Alpha Null(死亡),Pognise(死亡),タモリの家(死亡)
+第四世代
+Blqsty,PepaxMax(死亡),すえきゅー(死亡),tsukigokami(死亡),白銀(死亡),りくるーと(死亡),TMK(死亡)ゲイロード(死亡),論破のレジェンド(死亡),ACるいとい(死亡),Evangelion Test Type-01(死亡)
+第五世代
+みどくり(低浮上),リフティ(低浮上),haruka(死亡),sine(死亡),covid-channel(死亡)
+絶対に荒らすピカチュウ(死亡),bitch japanese nigga poop(死亡),蔵田(死亡)
+kousakirai(死亡),フェニックス(死亡),ワッパステイ(低浮上)
+第六世代
+ハマグリの名を継ぐもの(死亡),紫のラララマっくり,シュトロハイム(死亡),ぱぺあ(死亡),heiji(死亡),Rupa(死亡),izaya,結月ゆかり bot(死亡),ウーフ(死亡),のなめ
+第七世代
+始祖ユミル(死亡),e8379283728(死亡),三枚舌(死亡),迫撃(死亡),スプリンクラー(死亡),人&#x26;#1160;益&#x26;#1160;&#x26;#1160;鳥&#x26;#1160;(死亡),ゆーふぉー(死亡),あぎたてっども(死亡),オコジョ(死亡),はるさめ
+第八世代
+Qwerty(死亡),らまぁん,start(死亡),MUMEI,&#x26;#128528;&#x26;#9996;&#x26;#9770;&#x26;#128326;&#x26;#9758;&#x26;#128326;&#x26;#10017;&#x26;#128326;&#x26;#128167;&#x26;#10052;&#x26;#128326;&#x26;#128078;&#x26;#9995;&#x26;#9872;,たにかみ,モジンセだよ,暇人村長
+第九世代
+おさしみ,kei,ひー(ヒロアカハマった),koaf
+第十世代
+ふぃあ,ワンデー,つっくん,キム,がんま,鶏肉,しのあ,れす (ねず).いー,おなぎ,パスカル,オナギ,ゲイル,〆鯖
+第十一世代
+ろみ,りすな,Ameboko,ウルト紳士,ミッキー,吉田,きなこもち,たかむら
+</code></pre>
+<pre><code>第一世代
+冥王サウロン,荒らし,root(死亡),AK47,ハウリングインフェルノ（死亡），襲撃者,夕立改二
+第二世代
+こひまき(死亡),ARIRIORI(死亡),けんけん(死亡),ナルトアイコン(死亡),れおうーん，すずねーう
+第三世代
+Tsukinose(死亡),Alpha Null（低浮上）,Pognise(死亡),タモリの家(死亡)，人益鳥，暇人村長
+第四世代
+Blqsty,PepaxMax(低浮上),すえきゅー（死亡）,tsukigokami（低浮上）,白銀,りくるーと,TMK(死亡)ゲイロード(死亡),論破のレジェンド(死亡),ACるいとい（死亡)
+第五世代
+みどくり(低浮上),リフティ(低浮上),haruka,sine,covid-channel(死亡)，woof，［Evangelion Test Type-01］，
+絶対に荒らすピカチュウ,bi### japanese ni### poop(死亡),蔵田(死亡)
+kousakirai,フェニックス(死亡),ワッパステイ(低浮上)
+第六世代
+ハマグリの名を継ぐもの,紫のラララマっくり,シュトロハイム(死亡),ぱぺあ(死亡),heiji(死亡),Rupa(死亡),izaya,結月ゆかり bot(死亡),ウーフ（低浮上）,のなめ,はるさめ,Za
+第七世代
+始祖ユミル(死亡),e8379283728(死亡),三枚舌(死亡),迫撃(死亡),スプリンクラー(死亡),,ゆーふぉ（死亡）,あぎたてっども(死亡),オコジョ(死亡),にとりーぬ
+第八世代
+Qwerty,らまぁん(死亡),start(低浮上),MUMEI,たにかみ(死亡),モジンセだよ,暇人村長，きなこもち（死亡），むっそん,ダハナ(低浮上),らたへおうち(低浮上),共産スパイ
+第九世代
+おさしみ,kei,ひー(ヒロアカハマった)(死亡),koaf(死亡),ワンデー(死亡)，すくりー,Voleぼる(死亡),健太(Nezu),
+第十世代
+ふぃあ,つっくん,キム,世羅，がんま(死亡),鶏肉（死亡）,しのあ(死亡).いー,オナギ(死亡),パスカル(死亡),いすみん，こぬま,hikahika,〆さば，闇の帝王ザッパ様(低浮上),ゲイル,影アイス
+第十一世代
+ろみ（死亡）,たかむら,吉田（死亡）,ミッキーだお,キノっ子,ameboko（低浮上），きなこもち（復活），いのぴー(死亡)，かずぃやあ
+第十二世代　
+無名（死亡），ほる,入力中（死亡）,neko,そら（死亡）,ともてら,るいん,便乗ひろゆき（死亡），ノアの方舟(低浮上)，まさまさ(低浮上),なえこーど
+第十三世代
+MASAKI(低浮上)，れねーだよ,薩摩藩の長(死亡),宇宙戦艦（死亡）spamMMcstaringsr-vr(低浮上),大掃除,トナカイ
+第十四世代
+すねーく。,あかい(低浮上),core,FoodSaver(低浮上),けっくす(低浮上),カールマルクス,すずき(死亡),り。,膜
+第十五世代
+早漏,Riaaaaaaaaaaaaaa,うつろ,can't,kitakawa(低浮上), グミ（hororochanB）,動くゴミ,Federico,アンモニア臭, SLP😪,えどちん
+</code></pre>8:["$","$L13",null,{"spacing":2,"padding":2,"children":[["$","$L14",null,{"children":["$","$L15",null,{"href":"/","children":"← ホームに戻る"}]}],["$","$L16",null,{"component":"h1","variant":"h4","children":"世代表"}],["$","$L16",null,{"children":["タグ: ","単語 歴史"]}],["$","$L17",null,{}],["$","$L14",null,{"dangerouslySetInnerHTML":{"__html":"$18"}}]]}]
+b:null
+10:[["$","title","0",{"children":"世代表 | 荒連資料館"}],["$","meta","1",{"name":"description","content":"荒らし連合軍に関する情報をまとめるウィキ"}],["$","meta","2",{"property":"og:title","content":"世代表 | 荒連資料館"}],["$","meta","3",{"property":"og:description","content":"荒らし連合軍に関する情報をまとめるウィキ"}],["$","meta","4",{"property":"og:site_name","content":"荒連資料館"}],["$","meta","5",{"name":"twitter:card","content":"summary"}],["$","meta","6",{"name":"twitter:title","content":"世代表 | 荒連資料館"}],["$","meta","7",{"name":"twitter:description","content":"荒らし連合軍に関する情報をまとめるウィキ"}]]
