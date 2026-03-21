@@ -1,0 +1,10 @@
+1:"$Sreact.fragment"
+2:I[614,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0ih52j8lpg_fp.js"],"default"]
+3:I[19646,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0ih52j8lpg_fp.js"],"default"]
+4:I[61380,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0ih52j8lpg_fp.js"],"default"]
+5:I[26863,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0ih52j8lpg_fp.js"],"default"]
+6:I[36773,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0ih52j8lpg_fp.js"],"default"]
+7:I[97367,["/_next/static/chunks/0xrasq-j~f.jo.js","/_next/static/chunks/0faw9u7pjjy8x.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"spacing":2,"padding":2,"children":[["$","$L3",null,{"children":["$","$L4",null,{"href":"/","children":"← ホームに戻る"}]}],["$","$L5",null,{"component":"h1","variant":"h4","children":"きょーた"}],["$","$L5",null,{"children":["タグ: ","ユーザー"]}],["$","$L6",null,{}],["$","$L3",null,{"dangerouslySetInnerHTML":{"__html":""}}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0ih52j8lpg_fp.js","async":true}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Dmka_9hDOtXuUePbapgMq"}
+9:null
