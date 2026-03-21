@@ -1,0 +1,4 @@
+---
+title: Freeze
+tags: グループ
+---
