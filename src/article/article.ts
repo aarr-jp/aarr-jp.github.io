@@ -5,6 +5,7 @@ import fm, { type FrontMatterResult } from "front-matter";
 export interface Article {
   slug: string;
   result: FrontMatterResult<any>;
+  length: number;
 }
 
 export async function getWikiArticles() {
@@ -20,6 +21,7 @@ export async function getWikiArticles() {
     articles.push({
       result,
       slug: (result.attributes as any).title,
+      length: index.length,
     });
   }
 

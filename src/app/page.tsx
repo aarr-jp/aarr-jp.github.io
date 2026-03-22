@@ -12,14 +12,16 @@ export default async function Page() {
         荒連資料館
       </Typography>
       <Stack spacing={1} alignItems="flex-start">
-        {articles.map((article) => (
-          <InternalLink
-            key={article.slug}
-            href={`/wiki/${encodeURIComponent(article.slug)}`}
-          >
-            {article.result.attributes.title}
-          </InternalLink>
-        ))}
+        {articles
+          .toSorted((a, b) => b.length - a.length)
+          .map((article) => (
+            <InternalLink
+              key={article.slug}
+              href={`/wiki/${encodeURIComponent(article.slug)}`}
+            >
+              {article.result.attributes.title} ({article.length}字)
+            </InternalLink>
+          ))}
       </Stack>
     </Stack>
   );

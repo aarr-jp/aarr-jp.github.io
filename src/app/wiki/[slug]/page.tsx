@@ -62,6 +62,7 @@ export default async function Page({ params }: Props) {
       <Typography component="h1" variant="h4">
         {article.result.attributes.title}
       </Typography>
+      <Typography>{article.length}字</Typography>
       <Typography>タグ: {article.result.attributes.tags}</Typography>
       <Divider />
       <Content html={html} />
