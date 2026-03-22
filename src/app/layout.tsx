@@ -1,4 +1,4 @@
-// import "kiso.css";
+import "kiso.css";
 
 import type { Metadata } from "next";
 import type { PropsWithChildren } from "react";
