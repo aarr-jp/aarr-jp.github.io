@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[614,["/_next/static/chunks/0.1d.vwavq.fn.js","/_next/static/chunks/05ck9y00xlpwk.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0qhs7uv~x4w-7.js"],"default"]
+3:I[26863,["/_next/static/chunks/0.1d.vwavq.fn.js","/_next/static/chunks/05ck9y00xlpwk.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0qhs7uv~x4w-7.js"],"default"]
+4:I[61380,["/_next/static/chunks/0.1d.vwavq.fn.js","/_next/static/chunks/05ck9y00xlpwk.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0qhs7uv~x4w-7.js"],"default"]
+5:I[97367,["/_next/static/chunks/0.1d.vwavq.fn.js","/_next/static/chunks/05ck9y00xlpwk.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"padding":2,"spacing":2,"children":[["$","$L3",null,{"component":"h1","variant":"h4","children":["%E5%8D%98%E8%AA%9E","の記事"]}],["$","$L2",null,{"spacing":1,"alignItems":"flex-start","children":[["$","$L4","世代表",{"href":"/wiki/%E4%B8%96%E4%BB%A3%E8%A1%A8","children":["世代表"," (",3800,"字)"]}],["$","$L4","aarr",{"href":"/wiki/aarr","children":["aarr"," (",456,"字)"]}],["$","$L4","フォートナイトちゃんねる",{"href":"/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%83%8A%E3%82%A4%E3%83%88%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B","children":["フォートナイトちゃんねる"," (",248,"字)"]}],["$","$L4","ルートレイク",{"href":"/wiki/%E3%83%AB%E3%83%BC%E3%83%88%E3%83%AC%E3%82%A4%E3%82%AF","children":["ルートレイク"," (",61,"字)"]}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qhs7uv~x4w-7.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"YN6CT-VegnP4gsJvVVjUp"}
+7:null

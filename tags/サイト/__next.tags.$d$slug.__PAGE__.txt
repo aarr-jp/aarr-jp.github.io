@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[614,["/_next/static/chunks/0.1d.vwavq.fn.js","/_next/static/chunks/05ck9y00xlpwk.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0qhs7uv~x4w-7.js"],"default"]
+3:I[26863,["/_next/static/chunks/0.1d.vwavq.fn.js","/_next/static/chunks/05ck9y00xlpwk.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0qhs7uv~x4w-7.js"],"default"]
+4:I[61380,["/_next/static/chunks/0.1d.vwavq.fn.js","/_next/static/chunks/05ck9y00xlpwk.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0qhs7uv~x4w-7.js"],"default"]
+5:I[97367,["/_next/static/chunks/0.1d.vwavq.fn.js","/_next/static/chunks/05ck9y00xlpwk.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"padding":2,"spacing":2,"children":[["$","$L3",null,{"component":"h1","variant":"h4","children":["%E3%82%B5%E3%82%A4%E3%83%88","の記事"]}],["$","$L2",null,{"spacing":1,"alignItems":"flex-start","children":[["$","$L4","フォートナイトちゃんねる",{"href":"/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%83%8A%E3%82%A4%E3%83%88%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B","children":["フォートナイトちゃんねる"," (",248,"字)"]}],["$","$L4","Feederチャット",{"href":"/wiki/Feeder%E3%83%81%E3%83%A3%E3%83%83%E3%83%88","children":["Feederチャット"," (",67,"字)"]}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qhs7uv~x4w-7.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"YN6CT-VegnP4gsJvVVjUp"}
+7:null
