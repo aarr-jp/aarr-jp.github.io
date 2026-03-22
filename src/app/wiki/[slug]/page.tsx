@@ -53,6 +53,7 @@ export default async function Page({ params }: Props) {
   }
 
   const html = await compile(article.result.body);
+  const tags = article.result.attributes.tags.split(/\s+/);
 
   return (
     <Stack spacing={2} padding={2}>
@@ -63,7 +64,16 @@ export default async function Page({ params }: Props) {
         {article.result.attributes.title}
       </Typography>
       <Typography>{article.length}字</Typography>
-      <Typography>タグ: {article.result.attributes.tags}</Typography>
+      {tags && (
+        <Stack direction="row" spacing={1}>
+          タグ:
+          {tags.map((t: string) => (
+            <InternalLink key={t} href={`/tags/${encodeURIComponent(t)}`}>
+              {t}
+            </InternalLink>
+          ))}
+        </Stack>
+      )}
       <Divider />
       <Content html={html} />
     </Stack>
