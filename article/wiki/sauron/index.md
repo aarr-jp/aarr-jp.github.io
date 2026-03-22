@@ -1,5 +1,5 @@
 ---
 title: サウロン
 aliases: 餅 冥王サウロン
-tags: ユーザー
+tags: 人物
 ---

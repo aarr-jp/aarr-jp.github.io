@@ -1,5 +1,5 @@
 ---
 title: aaru
-tags: ユーザー
+tags: 人物
 aliases: 魚プロ 魚に育てられた海外プロ sakanapro ベイダー卿
 ---
