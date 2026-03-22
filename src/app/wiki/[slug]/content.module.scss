@@ -1,0 +1,17 @@
+.content {
+  a {
+    color: var(--mui-palette-primary-main);
+    text-decoration: underline;
+    text-decoration-color: rgba(var(--mui-palette-primary-mainChannel) / 0.4);
+
+    &:hover {
+      text-decoration-color: inherit;
+    }
+  }
+
+  :global(.deadLink) {
+    color: var(--mui-palette-error-main);
+    text-decoration: underline;
+    cursor: pointer;
+  }
+}

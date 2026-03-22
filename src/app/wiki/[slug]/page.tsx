@@ -2,11 +2,11 @@ import Box from "@mui/material/Box";
 import Divider from "@mui/material/Divider";
 import Stack from "@mui/material/Stack";
 import Typography from "@mui/material/Typography";
-
 import type { Metadata } from "next";
 import { getWikiArticles } from "../../../article/article";
 import { compile } from "../../../article/markdown";
 import InternalLink from "../../internal-link";
+import Content from "./content";
 
 const dev = process.env.NODE_ENV === "development";
 
@@ -64,12 +64,7 @@ export default async function Page({ params }: Props) {
       </Typography>
       <Typography>タグ: {article.result.attributes.tags}</Typography>
       <Divider />
-      <Box
-        // biome-ignore lint/security/noDangerouslySetInnerHtml: <explanation>
-        dangerouslySetInnerHTML={{
-          __html: html,
-        }}
-      />
+      <Content html={html} />
     </Stack>
   );
 }
