@@ -1,10 +1,13 @@
 "use client";
 
+import { blue } from "@mui/material/colors";
 import { createTheme } from "@mui/material/styles";
 
 export const theme = createTheme({
-  cssVariables: {
-    colorSchemeSelector: "class",
+  cssVariables: true,
+  typography: {
+    fontFamily: "var(--primaryFont)",
+    fontSize: 15,
   },
   defaultColorScheme: "dark",
   components: {
@@ -15,7 +18,13 @@ export const theme = createTheme({
     },
   },
   colorSchemes: {
-    dark: true,
-    light: true,
+    dark: {
+      palette: {
+        primary: {
+          main: blue[200],
+        },
+      },
+    },
+    light: false,
   },
 });

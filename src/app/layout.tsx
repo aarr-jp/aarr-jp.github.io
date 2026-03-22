@@ -2,6 +2,7 @@ import "kiso.css";
 
 import type { Metadata } from "next";
 import type { PropsWithChildren } from "react";
+import { primaryFont } from "../theme/font";
 import ThemeProvider from "../theme/theme-provider";
 
 export const metadata: Metadata = {
@@ -17,7 +18,7 @@ export const metadata: Metadata = {
 
 export default function Layout({ children }: PropsWithChildren) {
   return (
-    <html lang="ja" suppressHydrationWarning>
+    <html lang="ja" suppressHydrationWarning className={primaryFont.variable}>
       <head />
       <body suppressHydrationWarning>
         <ThemeProvider>{children}</ThemeProvider>
